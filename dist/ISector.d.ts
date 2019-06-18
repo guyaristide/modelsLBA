@@ -4,5 +4,5 @@ export interface ISector extends BaseEntityInterface {
     label: string;
     icon?: ICloudImage;
     description?: string;
-    descriptionComplete?: string;
+    full_description?: string;
 }
