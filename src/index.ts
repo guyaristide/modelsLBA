@@ -13,3 +13,4 @@ export { IRole } from "./IRole";
 export { ISector } from "./ISector";
 export { IUser } from "./IUser";
 export { ResponseData } from "./ResponseData";
+export { IResponse } from "./IResponse";
