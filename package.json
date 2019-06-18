@@ -1,0 +1,15 @@
+{
+  "name": "lesbonsateliersmodels",
+  "version": "1.0.0",
+  "description": "models data LES BONS ATELIERS",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neiba <guyaristide@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.0.8"
+  }
+}
