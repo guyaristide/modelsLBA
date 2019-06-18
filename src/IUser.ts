@@ -18,5 +18,6 @@ export interface IUser extends BaseEntityInterface {
   creationDate?: Date;
   slogan?: string;
   tradeName?: string;
+  token?: string;
   
 }

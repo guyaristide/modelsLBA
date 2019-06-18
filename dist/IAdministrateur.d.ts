@@ -14,4 +14,5 @@ export interface IAdministrateur extends BaseEntityInterface {
     avatar?: ICloudImage;
     creationDate?: Date;
     rolesIds?: number[];
+    token?: string;
 }
