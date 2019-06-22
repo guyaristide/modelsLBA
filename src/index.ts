@@ -15,3 +15,4 @@ export { IUser } from "./IUser";
 export { ResponseData } from "./ResponseData";
 export { IResponse } from "./IResponse";
 export { ITutorial } from "./ITutorial";
+export { IPartner } from "./IPartner";
