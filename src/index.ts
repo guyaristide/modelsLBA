@@ -16,3 +16,4 @@ export { ResponseData } from "./ResponseData";
 export { IResponse } from "./IResponse";
 export { ITutorial } from "./ITutorial";
 export { IPartner } from "./IPartner";
+export { IBookService } from "./IBookService";

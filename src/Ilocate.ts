@@ -1,8 +1,10 @@
-import { BaseEntityInterface } from "./BaseEntityInterface";
+import {BaseEntityInterface} from "./BaseEntityInterface";
 
 export interface ILocate extends BaseEntityInterface {
-  longitude?: string;
-  latitude?: string;
-  details?: string;
-  street?: string;
+    longitude?: string;
+    latitude?: string;
+    details?: string;
+    street?: string;
+    countryId?: string;
+    cityId?: string;
 }
